@@ -16,16 +16,21 @@ __Alternative Hypothesis:__
        
 __Research Questions:__ 
 
-    *What is the baseline adoption rate by month/year? 
-    *Is there an increase in adoption rates after the pandemic hit the US (ie after March 2020)? 
-    *If there is a correlation to adoptions, does it correlate to documented COVID cases?
-    *Extend the analysis to multiple cities. Do correlations to COVID differ between cities?
+    -What is the baseline adoption rate by month/year? 
+    -Is there an increase in adoption rates after the pandemic hit the US (ie after March 2020)? 
+    -If there is a change in adoption rates, does it correlate to documented COVID cases?
+    -Extend the analysis to multiple cities. Do correlations to COVID differ between cities?
     
 __Summary and Conclusions:__
 
-Adoption rates appear to increase over the summer months in Norfolk.  There was a big dip in adoptions in April/May/June 2020, right after the pandemic started.
+In Norfolk, pet adoption rates appear to increase over the summer months.  There was a big dip in adoptions in April/May/June 2020, right after the pandemic started. Pet adoptions are overall lower in 2020 than they were in 2018 and 2019.
 
   ![](Images/Norfolk%20Adoption%20Rates%20by%20Year.png)
+  
+In Dallas, pet adoption drop drastically in March 2020(which correlates with the lockdown annoucments). There was no data available for years 2018 and 2019, so we are unable to compare adoption rates between the three years
+  
+  ![](Images/Dallas%20Adoption%20Rates%20by%20Year.png)
+
      
 For Norfolk, we did not find a correlation between COVID cases and pet adoptions. 
 The Pearson correlation coefficient was .05 (very weak)

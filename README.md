@@ -1,11 +1,11 @@
-# Impact_Covid_PetAdoption
+# Impact of Covid on Pet Adoption
 
 A team project with Mabel Alamu, Jen Johansson, JB Kinlacheeny, Radhika Sagar to analyze the impact of COVID-19 had on pet adoption rates in Norfolk, VA and Dallas, TX.
 
 We take a look at available COVID data (documented, positive test results) and cross-reference it with publicly available data related to pet adoptions to determine if there is an increase in pet adoptions as the pandemic continues.
 
 
-Null Hypothesis:
+_Null Hypothesis_:
 
      *There is no correlation between COVID positive cases and pet adoption rates.
 

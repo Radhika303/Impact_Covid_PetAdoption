@@ -22,10 +22,11 @@ __Research Questions:__
     -Extend the analysis to multiple cities. Do correlations to COVID differ between cities?
     
 __Data Sources:__
-Norfolk, VA COVID dataset: https://data.virginia.gov/resource/bre9-aqqr.json
-Norfolk, VA adoption data: https://data.norfolk.gov/Government/Norfolk-Animal-Care-and-Adoption-Center-NACC-/vfm4-5wv6 
-Dallas, TX COVID dataset: https://www.kaggle.com/sudalairajkumar/covid19-in-usa
-Dallas, TX adoption data: https://www.dallasopendata.com/City-Services/FY2020-Dallas-Animal-Shelter-Data/7h2m-3um5
+
+    -Norfolk, VA COVID dataset: https://data.virginia.gov/resource/bre9-aqqr.json
+    -Norfolk, VA adoption data: https://data.norfolk.gov/Government/Norfolk-Animal-Care-and-Adoption-Center-NACC-/vfm4-5wv6 
+    -Dallas, TX COVID dataset: https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+    -Dallas, TX adoption data: https://www.dallasopendata.com/City-Services/FY2020-Dallas-Animal-Shelter-Data/7h2m-3um5
 
 
 __Definitions:__
@@ -50,6 +51,7 @@ We did not find a correlation between COVID cases and pet adoptions; the Pearson
   ![](Images/Linear%20Regression%2C%20Norfolk.png)
   
 _Dallas_
+
 Pet adoption drops drastically in March 2020(which correlates with the lockdown annoucments). There was no data available for years 2018 and 2019, so we are unable to compare adoption rates between the three years
   
  ![](Images/Dallas%20Adoption%20Rates%20by%20Year.png)

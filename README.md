@@ -21,6 +21,21 @@ __Research Questions:__
     -If there is a change in adoption rates, does it correlate to documented COVID cases?
     -Extend the analysis to multiple cities. Do correlations to COVID differ between cities?
     
+__Data Sources:__
+Norfolk, VA COVID dataset: https://data.virginia.gov/resource/bre9-aqqr.json
+Norfolk, VA adoption data: https://data.norfolk.gov/Government/Norfolk-Animal-Care-and-Adoption-Center-NACC-/vfm4-5wv6 
+Dallas, TX COVID dataset: https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+Dallas, TX adoption data: https://www.dallasopendata.com/City-Services/FY2020-Dallas-Animal-Shelter-Data/7h2m-3um5
+
+
+__Definitions:__
+
+    -COVID cases: confirmed positive COVID cases
+    -Adoption: pets adopted
+    -Location: Dallas County, TX and Norfolk, VA
+    -Timeframe: March – December 2020, and use historical data to baseline
+
+    
 __Summary and Conclusions:__
 
 _Norfolk_
@@ -45,7 +60,6 @@ We did find a  correlation between COVID cases and pet adoptions; the Pearson co
    
     
 __Inferences/Conclusions:__
-The adoption dataset for both cities is small, which impacts the analysis and test results.
-Other factors could be influencing the results.  For example, were the shelters closed during any time period?  Were people adopting pets through other sources like rescue organizations
+Analysis indicated that pet adoption rates actually were not correlated to COVID cases in Norfolk, and that they were inversely related in Dallas.  There could be many reasons for the difference between reality and perception which would make interesting follow-on research topics.  
 
-
+Some reasons include: there are fewer adoptable pets (intakes) because people are staying home,  there are fewer relocations, therefore the number of adoptable pets has decreased. Pets are being picked up by rescue organizations and therefore adoptions are not recorded in  the public dataset. It is important to add that the adoption dataset for both cities is small, which impacts the analysis and test results.

@@ -31,10 +31,6 @@ In comparing pet adoption in 2018 through 2020, it appears that pet adoption rat
   
   
   
-COVID cases sharply increase in June
-     ![](Images/Norfolk%2C%20VA%20new%20COVID%20cases%20per%20month.png)
-  
-  
 We did not find a correlation between COVID cases and pet adoptions; the Pearson correlation coefficient was .05, which indicates there is no or a very weak correlation between COVID cases and pet adoptions in Norfolk
   ![](Images/Linear%20Regression%2C%20Norfolk.png)
   
@@ -46,10 +42,7 @@ Pet adoption drops drastically in March 2020(which correlates with the lockdown 
 We did find a  correlation between COVID cases and pet adoptions; the Pearson correlation coefficient was -.53, which indicates there is a negative moderate correlation between COVID cases and pet adoptions in Dallas.
   ![](Images/Linear%20Regression%20Dallas.png)
     
-    
-    
-COVID cases spike in June and October 
-      ![](Images/Dallas%2C%20TX%20new%20COVID%20cases%20per%20month.png)
+   
     
 __Inferences/Conclusions:__
 The adoption dataset for both cities is small, which impacts the analysis and test results.

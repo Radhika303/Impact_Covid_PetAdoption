@@ -7,11 +7,11 @@ We take a look at available COVID data (documented, positive test results) and c
 
 __Null Hypothesis:__
 
-     *There is no correlation between COVID positive cases and pet adoption rates.
+     -There is no correlation between COVID positive cases and pet adoption rates.
 
 __Alternative Hypothesis:__
 
-     *There is a correlation between adoption rates in 2020 (after March) due to more individuals staying at home (as indicated by COVID cases).
+     -There is a correlation between adoption rates in 2020 (after March) due to more individuals staying at home (as indicated by COVID cases).
        
        
 __Research Questions:__ 

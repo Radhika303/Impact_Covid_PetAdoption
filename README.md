@@ -24,6 +24,7 @@ Research Questions:
 Summary and Conclusions:
 
 Adoption rates appear to increase over the summer months in Norfolk.  There was a big dip in adoptions in April/May/June 2020, right after the pandemic started.
+
        ![]Images/Norfolk%20Adoption%20Rates%20by%20Year.png
        
        

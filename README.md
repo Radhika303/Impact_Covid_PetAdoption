@@ -27,12 +27,14 @@ Adoption rates appear to increase over the summer months in Norfolk.  There was 
 
   ![](Images/Norfolk%20Adoption%20Rates%20by%20Year.png)
      
-       
-       
 For Norfolk, we did not find a correlation between COVID cases and pet adoptions. 
 The Pearson correlation coefficient was .05 (very weak)
+    ![](Images/Linear%20Regression%2C%20Norfolk.png)
+
 For Dallas, we did find a moderate correlation but it was negative.
 The Pearson correlation coefficient was -.5
+    ![](Images/Linear%20Regression%20Dallas.png)
+    
 Inferences/Conclusions:
 The adoption dataset for both cities is small, which impacts the analysis and test results.
 Other factors could be influencing the results.  For example, were the shelters closed during any time period?  Were people adopting pets through other sources like rescue organizations?

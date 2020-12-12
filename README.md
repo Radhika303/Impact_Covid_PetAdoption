@@ -41,7 +41,7 @@ __Summary and Conclusions:__
 
 _Norfolk_
 
-In comparing pet adoption in 2018 through 2020, it appears that pet adoption rates increase over the summer months and pet adoptions are lower in 2020 than in 2018 and 2019. In 2020, there was a sharp decrease in adoptions in March, right after the pandemic started and nationwide lockdown annoucement. 
+In comparing pet adoption in 2018 through 2020, it appears that pet adoption rates increase over the summer months and pet adoptions are lower in 2020 than in 2018 and 2019. In 2020, there was a sharp decrease in adoptions in March, right after the pandemic started and nationwide lockdown announcement. 
 
   ![](Images/Norfolk%20Adoption%20Rates%20by%20Year.png)
   
@@ -52,7 +52,7 @@ We did not find a correlation between COVID cases and pet adoptions; the Pearson
   
 _Dallas_
 
-Pet adoption drops drastically in March 2020(which correlates with the lockdown annoucments). There was no data available for years 2018 and 2019, so we are unable to compare adoption rates between the three years
+Pet adoption drops drastically in March 2020(which correlates with the lockdown announcements). There was no data available for years 2018 and 2019, so we are unable to compare adoption rates between the three years
   
  ![](Images/Dallas%20Adoption%20Rates%20by%20Year.png)
 

@@ -1,6 +1,6 @@
 # Impact of Covid on Pet Adoption
 
-A team project with Mabel Alamu, Jen Johansson, JB Kinlacheeny, Radhika Sagar to analyze the impact of COVID-19 had on pet adoption rates in Norfolk, VA and Dallas, TX.
+A team project with Mabel Alamu, Jen Johansson, JB Kinlacheeny, Radhika Sagar to analyze the impact of COVID-19 on pet adoption rates in Norfolk, VA and Dallas, TX.
 
 We take a look at available COVID data (documented, positive test results) and cross-reference it with publicly available data related to pet adoptions to determine if there is an increase in pet adoptions as the pandemic continues.
 
@@ -23,7 +23,9 @@ __Research Questions:__
     
 __Summary and Conclusions:__
 
-In Norfolk, pet adoption rates appear to increase over the summer months.  There was a big dip in adoptions in April/May/June 2020, right after the pandemic started. Pet adoptions are overall lower in 2020 than they were in 2018 and 2019.
+_Norfolk_
+
+In comparing pet adoption in 2018 through 2020, it appears that pet adoption rates increase over the summer months and pet adoptions are lower in 2020 than in 2018 and 2019. In 2020, there was a sharp decrease in adoptions in March, right after the pandemic started and nationwide lockdown annoucement. 
 
   ![](Images/Norfolk%20Adoption%20Rates%20by%20Year.png)
   

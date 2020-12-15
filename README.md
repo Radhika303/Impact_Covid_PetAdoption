@@ -11,7 +11,7 @@ __Null Hypothesis:__
 
 __Alternative Hypothesis:__
 
-     -There is a correlation between adoption rates in 2020 (after March) due to more individuals staying at home (as indicated by COVID cases).
+     -There is a positive correlation between adoption rates in 2020 (after March) due to more individuals staying at home (as indicated by COVID cases).
        
        
 __Research Questions:__ 

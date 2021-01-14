@@ -62,6 +62,6 @@ We did find a  correlation between COVID cases and pet adoptions; the Pearson co
    
     
 __Inferences/Conclusions:__
-Analysis indicated that pet adoption rates actually were not correlated to COVID cases in Norfolk, and that they were inversely related in Dallas.  There could be many reasons for the difference between reality and perception which would make interesting follow-on research topics.  
+There were many new articles indicated that as the social isolation became more stringent during the pandemic, pet adoptions increased significantly. However, our analysis indicated that pet adoption rates actually were not correlated to COVID cases in Norfolk, and that they were inversely related in Dallas.  There could be many reasons for the difference between reality and perception which would make interesting follow-up research topics.  
 
-Some reasons include: there are fewer adoptable pets (intakes) because people are staying home,  there are fewer relocations, therefore the number of adoptable pets has decreased. Pets are being picked up by rescue organizations and therefore adoptions are not recorded in  the public dataset. It is important to add that the adoption dataset for both cities is small, which impacts the analysis and test results.
+Some reasons include: there are fewer adoptable pets (intakes) because people are staying home,  there are fewer relocations, therefore the number of adoptable pets has decreased. Pets are being picked up by rescue organizations and therefore adoptions are not recorded in  the public dataset. It is important to add that the adoption dataset is small for both cities, which impacts the analysis and test results.
